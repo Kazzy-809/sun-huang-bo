@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1500" height="850" viewBox="0 0 1500 850" role="img" aria-labelledby="title desc">
+  <title id="title">孙学、黄毛、薄肌的三体结构</title>
+  <desc id="desc">孙学作为认知内核决定方向，黄毛支持执行，薄肌支持身体续航。三者共同产生结果，再通过复盘更新判断。</desc>
+  <defs><style>text{font-family:"Microsoft YaHei","PingFang SC","Noto Sans CJK SC",sans-serif}</style></defs>
+  <rect width="1500" height="850" rx="28" fill="#f5f1e8"/>
+  <text x="64" y="81" font-size="40" font-weight="700" fill="#20322b">一套认知内核，两种行动支持</text>
+  <text x="66" y="129" font-size="24" fill="#5f6a63">先判断方向，再让执行和身体一起支撑它。</text>
+  <rect x="64" y="178" width="1372" height="194" rx="24" fill="#20322b"/>
+  <rect x="94" y="214" width="66" height="66" rx="18" fill="#dc5a3c"/>
+  <text x="127" y="259" font-size="32" font-weight="700" text-anchor="middle" fill="#fff9ee">孙</text>
+  <text x="187" y="254" font-size="40" font-weight="700" fill="#fff9ee">孙学 · 认知内核</text>
+  <text x="188" y="309" font-size="25" fill="#dee4da">值得做什么？凭什么进入？愿意承担怎样的代价？</text>
+  <g fill="#34473d" stroke="#546459">
+    <rect x="904" y="222" width="140" height="54" rx="27"/>
+    <rect x="1066" y="222" width="140" height="54" rx="27"/>
+    <rect x="1228" y="222" width="140" height="54" rx="27"/>
+  </g>
+  <g font-size="25" text-anchor="middle" fill="#fff9ee">
+    <text x="974" y="258">开图</text><text x="1136" y="258">试验</text><text x="1298" y="258">聚焦</text>
+  </g>
+  <path d="M750 372v38M396 448v-38h708v38" fill="none" stroke="#839184" stroke-width="3"/>
+  <circle cx="750" cy="410" r="6" fill="#839184"/>
+  <path d="m388 437 8 11 8-11M1096 437l8 11 8-11" fill="none" stroke="#839184" stroke-width="3"/>
+  <rect x="64" y="448" width="658" height="186" rx="24" fill="#f3dfaa"/>
+  <text x="100" y="507" font-size="36" font-weight="700" fill="#20322b">黄毛 · 执行驱动</text>
+  <text x="101" y="553" font-size="25" fill="#36463d">把想做的事推进到现实。</text>
+  <text x="101" y="597" font-size="24" fill="#586050">主动开口 / 小步交付 / 接住反馈</text>
+  <rect x="770" y="448" width="666" height="186" rx="24" fill="#dce8dc"/>
+  <text x="808" y="507" font-size="36" font-weight="700" fill="#20322b">薄肌 · 身体驱动</text>
+  <text x="809" y="553" font-size="25" fill="#36463d">让身体支持长期行动。</text>
+  <text x="809" y="597" font-size="24" fill="#586a5d">活动 / 力量与有氧 / 恢复</text>
+  <path d="M396 634v37h708v-37M750 671v31" fill="none" stroke="#839184" stroke-width="3"/>
+  <path d="m742 691 8 11 8-11" fill="none" stroke="#839184" stroke-width="3"/>
+  <rect x="64" y="702" width="1372" height="84" rx="20" fill="#e7e9df"/>
+  <text x="750" y="757" text-anchor="middle" font-size="30" font-weight="600" fill="#20322b">结果进入复盘，更新下一次判断。</text>
+</svg>

@@ -1,0 +1,4 @@
+interface:
+  display_name: "孙—黄—薄理论系统"
+  short_description: "以孙学判断方向，以黄毛推动行动，以薄肌维护续航的个人人生系统"
+  default_prompt: "用 $sun-huang-bo 分析我眼前的选择，给出判断依据、适合我的路径和现在能做的第一步。"

@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1500" height="500" viewBox="0 0 1500 500" role="img" aria-labelledby="title desc">
+  <title id="title">从开图、试做到聚焦与复盘的行动循环</title>
+  <desc id="desc">开图补足参照，试做取得反馈，聚焦有效路径，复盘核对结果，再带着新证据开始下一轮。</desc>
+  <defs><style>text{font-family:"Microsoft YaHei","PingFang SC","Noto Sans CJK SC",sans-serif}</style></defs>
+  <rect width="1500" height="500" rx="28" fill="#20322b"/>
+  <text x="64" y="75" font-size="38" font-weight="700" fill="#fff9ee">用反馈，完成一次版本更新</text>
+  <text x="66" y="120" font-size="24" fill="#b6c4b8">从一个真实问题开始，持续调整下一步。</text>
+  <rect x="64" y="168" width="312" height="190" rx="22" fill="#dc5a3c"/>
+  <text x="96" y="213" font-size="21" fill="#ffe0ca">01 / EXPLORE</text>
+  <text x="96" y="260" font-size="35" font-weight="700" fill="#fff9ee">开图</text>
+  <text x="96" y="302" font-size="23" fill="#fff9ee">补足参照</text>
+  <text x="96" y="334" font-size="23" fill="#fff9ee">看见可选的路</text>
+  <rect x="416" y="168" width="312" height="190" rx="22" fill="#efbe4f"/>
+  <text x="448" y="213" font-size="21" fill="#60501f">02 / TRY</text>
+  <text x="448" y="260" font-size="35" font-weight="700" fill="#20322b">试做</text>
+  <text x="448" y="302" font-size="23" fill="#20322b">拿出一个作品</text>
+  <text x="448" y="334" font-size="23" fill="#20322b">换取真实回应</text>
+  <rect x="768" y="168" width="312" height="190" rx="22" fill="#367e69"/>
+  <text x="800" y="213" font-size="21" fill="#cce4d3">03 / FOCUS</text>
+  <text x="800" y="260" font-size="35" font-weight="700" fill="#fff9ee">聚焦</text>
+  <text x="800" y="302" font-size="23" fill="#fff9ee">找到有效路径</text>
+  <text x="800" y="334" font-size="23" fill="#fff9ee">集中时间与资源</text>
+  <rect x="1120" y="168" width="312" height="190" rx="22" fill="#f5f1e8"/>
+  <text x="1152" y="213" font-size="21" fill="#627067">04 / UPDATE</text>
+  <text x="1152" y="260" font-size="35" font-weight="700" fill="#20322b">复盘</text>
+  <text x="1152" y="302" font-size="23" fill="#20322b">核对实际结果</text>
+  <text x="1152" y="334" font-size="23" fill="#20322b">继续、加码或调整</text>
+  <g stroke="#b6c4b8" stroke-width="3" fill="none" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M386 262h19m-7-7 7 7-7 7"/>
+    <path d="M738 262h19m-7-7 7 7-7 7"/>
+    <path d="M1090 262h19m-7-7 7 7-7 7"/>
+    <path d="M1276 380v53H220v-53m-7 8 7-8 7 8"/>
+  </g>
+  <rect x="477" y="413" width="546" height="42" rx="21" fill="#20322b"/>
+  <text x="750" y="442" text-anchor="middle" font-size="24" fill="#d5dfd3">Small Ego：让结果更新判断。</text>
+</svg>
