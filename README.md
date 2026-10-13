@@ -255,12 +255,6 @@ sun-huang-bo/
 
 个人记录放在自己的工作目录，按需要取用模板。
 
-<details>
-<summary>豆包接入与平台发布</summary>
-
-本仓库尚未完成豆包客户端实机验证，导入方式以客户端当前要求为准。在豆包内公开分发，需要通过[豆包开放平台](https://open.doubao.com/)按[技能接入流程](https://open.doubao.com/document/doubao-developer-guide/skill-integration-guide)发布。
-
-截至 2026-10-13，平台首页显示内测，可提交入驻意向。其技能上传说明要求 ZIP 根目录包含 `SKILL.md`，发布时按要求填写图标、版本等信息。
 
 </details>
 
