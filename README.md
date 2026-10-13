@@ -314,4 +314,4 @@ python scripts/sunxue.py today
 ## 作者与 AI 协作
 
 - **Kazzy-809**：项目发起、方向设计与最终审定。
-- **GPT / Codex、Claude**：协助内容整理、文档编写与项目完善。
+- **GPT / Codex、Claude**：协助内容整理、文档编写、视频制作与项目完善。
