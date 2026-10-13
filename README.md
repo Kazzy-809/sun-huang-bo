@@ -311,3 +311,7 @@ python scripts/sunxue.py today
 | 一般身体活动建议 | [WHO 身体活动资料](https://www.who.int/news-room/fact-sheets/detail/physical-activity) |
 
 具体整合去向与改写说明见 [SOURCES.md](SOURCES.md)。9 张配图为本仓库绘制。发布与转载时请保留 [MIT 许可](LICENSE)、访谈笔记相关改写的 [CC BY 4.0 署名说明](licenses/alan-notes-LICENSE.txt)及对应来源。
+## 作者与 AI 协作
+
+- **Kazzy-809**：项目发起、方向设计与最终审定。
+- **GPT / Codex、Claude**：协助内容整理、文档编写与项目完善。
