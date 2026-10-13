@@ -20,7 +20,7 @@
 使用支持 `SKILL.md` 和文件读取的 Agent，按客户端提供的入口安装：
 
 - **从 GitHub 安装**：客户端支持仓库安装时，在技能安装入口填入本仓库地址。
-- **本地导入**：点击 GitHub 的 **Code → Download ZIP** 并解压，导入直接包含 `SKILL.md` 的完整文件夹。手动放入技能目录时，将文件夹命名为 `sun-huang-bo`。
+- **本地导入**：点击 GitHub 的 **Code → Download ZIP** 并解压，导入包含 `SKILL.md` 的完整文件夹。手动放入技能目录时，将文件夹命名为 `sun-huang-bo`。
 - **项目加载**：用支持项目指令的 Agent 打开仓库，按 [`AGENTS.md`](AGENTS.md) 读取 [`SKILL.md`](SKILL.md)。
 
 启用 **sun-huang-bo** 后，直接说明你遇到的问题。日常使用无需安装 Python。
@@ -256,11 +256,6 @@ sun-huang-bo/
 ```
 
 个人记录放在自己的工作目录，按需要取用模板。
-
-<details>
-<summary>豆包接入与平台发布</summary>
-
-本仓库尚未完成豆包客户端实机验证，导入方式以客户端当前要求为准。在豆包内公开分发，需要通过[豆包开放平台](https://open.doubao.com/)按[技能接入流程](https://open.doubao.com/document/doubao-developer-guide/skill-integration-guide)发布。
 
 截至 2026-10-13，平台首页显示内测，可提交入驻意向。其技能上传说明要求 ZIP 根目录包含 `SKILL.md`，发布时按要求填写图标、版本等信息。
 
